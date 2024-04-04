@@ -40,6 +40,10 @@ background: #833e3e;
   display: block;
 }
 
+.navbar-nav {
+  margin: 0 auto; /* Centra los elementos del navbar */
+}
+
 
 .navbar ul {
   list-style-type: none;
@@ -68,6 +72,10 @@ font-size: 30px;
 color: azure;
 }
 
+.parrafo {
+  display: none;
+
+}
 
 .barra {
 height: 120px;
